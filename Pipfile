@@ -7,10 +7,7 @@ verify_ssl = true
 
 [packages]
 scrapy = "*"
-google-api-python-client = "*"
 selenium = "*"
-google-auth-httplib2 = "*"
-google-auth-oauthlib = "*"
 pandas = "*"
 pytest = "*"
 
