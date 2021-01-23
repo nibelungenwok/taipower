@@ -4,3 +4,4 @@ all_plants_power_output.csv
 *.png
 stdout*
 *.json
+screenshots/
